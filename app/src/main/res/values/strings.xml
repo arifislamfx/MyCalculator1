@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="equal">=</string>
+    <string name="qoma">⋅</string>
+</resources>
